@@ -1,6 +1,2 @@
 encrypt:
-  # key: bkdkljarmsv133mbavji9hnenbg
-  key-store:
-    location: file://${user.home}/Desktop/school/capstone/projectManagement/keyStore/apiEncryptionKey.jks
-    password: test1234
-    alias: apiEncryptionKey
+  key: bkdkljarmsv133mbavji9hnenbg
