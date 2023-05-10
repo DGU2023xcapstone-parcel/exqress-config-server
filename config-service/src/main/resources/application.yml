@@ -11,11 +11,11 @@ spring:
           # uri: file://Users/kimjungwon/Desktop/school/capstone/projectManagement/docs
           uri : https://github.com/jw0293/Spring-Cloud-Config
 
-  rabbitmq:
-    host: 127.0.0.1
-    port: 5672
-    username: guest
-    password: guest
+#  rabbitmq:
+#    host: 127.0.0.1
+#    port: 5672
+#    username: guest
+#    password: guest
 
 management:
   endpoints:
